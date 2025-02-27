@@ -1,4 +1,4 @@
-# Bookshelf-API
+
 # Bookshelf API
 
 Bookshelf API adalah aplikasi backend sederhana untuk mengelola daftar buku menggunakan Hapi.js.
